@@ -13,6 +13,5 @@ html {
 @media screen only and (max-width: 1196px) {
   #bear{
     left: 800px;
-    right: auto;
   }
 }
